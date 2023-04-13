@@ -1,0 +1,12 @@
+pwd (print working directory) : imprime el directorio actual sobre el cual estamos trabajando
+ls (list) : muestra una lista de todos los archivos sobre los que se esta trabajando. 
+mkdir (make directory) "nombre de la carpeta": crea un directorio o carpeta vacia. Si el nombre de la carpeta lleva espacios hay que ponerlo entre comillas.
+cd (change directory) "nombre del archivo o carpeta": para moverse de carpeta o archivo. 
+cd .. : para volver para atras
+clear : limpiar la terminal
+touch "nombre del archivo.tipo de archivo" : crear un archivo
+rm "nombre del archivo" : remover el archivo
+rm -r "nombre de la carpeta o repositorio": remover una carpeta
+help : muestra una lista de comandos
+"nombre del comando" --help : muestra un listado de sus posibles usos. 
+
