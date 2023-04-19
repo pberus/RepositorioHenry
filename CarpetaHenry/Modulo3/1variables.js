@@ -16,3 +16,7 @@ console.log(cajon1);
 
 // Null
 var sinNada = null;
+
+//MÉTODO LENGTH
+//Este es un método que solo se puede aplicar al tipo de dato string (más adelante veremos que también lo podemos utilizar en arreglos).
+console.log("String".length); //6
